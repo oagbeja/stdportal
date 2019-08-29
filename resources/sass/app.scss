@@ -1,0 +1,20 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//custom
+@import 'custom';
+//font-awesome
+
+@import '~fontawesome-free-5.10.1-web/scss/fontawesome';
+@import '~fontawesome-free-5.10.1-web/css/all.min';
+@import '~fontawesome-free-5.10.1-web/css/solid.min';
+.navbar-laravel {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
